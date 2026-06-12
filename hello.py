@@ -1,3 +1,3 @@
-def funtioc {
-}
-print ("Hello Python script")
+hello.py
+print ("Ali Ahmed Rizvi")
+
